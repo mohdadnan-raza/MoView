@@ -1,0 +1,12 @@
+.Container{
+    background-color: #2d2e37;
+}
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    scroll-padding-top: 2rem;
+    scrollbar-base-color: var(--main-color);
+    font-family: 'Poppins', sans-serif;
+  }
